@@ -7,3 +7,6 @@ Test NPM Package
 
 .. image:: https://coveralls.io/repos/tlyng/npmtest/badge.png?branch=master
     :target: https://coveralls.io/r/tlyng/npmtest
+
+.. image:: https://gemnasium.com/tlyng/npmtest.png
+    :target: https://gemnasium.com/tlyng/npmtest
